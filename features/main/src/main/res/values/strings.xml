@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_title">Film Categories</string>
+    <string name="categories_loading">Fetching categories</string>
+    <string name="categories_not_found">Film categories not found</string>
+    <string name="movie_loading">Fetching movies by category</string>
+    <string name="movie_not_found">Movies not found</string>
+    <string name="movie_detail_loading">Fetching movie detail</string>
+    <string name="review_loading">Fetching reviews by movie</string>
+    <string name="review_not_found">Reviews not found</string>
+    <string name="review_title">Review : %s</string>
+    <string name="trailer_video_title">Video : %s</string>
+    <string name="trailer_video_loading">Fetching trailers in this film</string>
+    <string name="trailer_video_not_found">There is no trailers in this film</string>
+</resources>
